@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ryoari
-- 👀 I’m interested in getting my shit together
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on a pomodoro app for smart watches
-- 📫 How to reach me? email probably: seriousargenti@gmail.com
+- 🌱 I’m currently learning python and AI
+- 💞️ I’m looking to collaborate on a AI-Powered-Manga-Background-Generator-for-Fan-Translations
+- 📫 reach me @ email: seriousargenti@gmail.com
 
 <!---
 ryoari/ryoari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
