@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+ryoari;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=cc6600&duration=4000&lines=Hi+There!+👋;+I'm+ryoari;" />
 </h1>
 
 - 🌱 I’m currently learning python and AI
@@ -16,16 +16,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<br>
 
-<div align="center">
-  <a href="gfgc4383@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ryoari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
 
 </div>
+<div align="center" style="margin-top: 15px; margin-bottom: 15px;">
+  <a href="mailto:gfgc4383@gmail.com" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/Email-ryoari-cc3333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email gfgc4383@gmail.com"/>
+  </a>
+  <a href="https://linkedin.com/in/ryoari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-330066?style=for-the-badge&logo=linkedin&logoColor=purple" target="_blank" />
+  </a>
+</div>
 
-<hr>
+
