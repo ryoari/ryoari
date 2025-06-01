@@ -1,3 +1,8 @@
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{ryoari}/count.svg" alt="Visitor's Count" />
+</div>
+
 - 👋 Hi, I’m @ryoari
 - 🌱 I’m currently learning python and AI
 - 💞️ I’m looking to collaborate on a AI-Powered-Manga-Background-Generator-for-Fan-Translations
