@@ -1,0 +1,57 @@
+<svg width="100%" height="100%" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+        .gradient-text-container {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 100%;
+          height: 100%;
+          overflow: hidden; /* Important for animation boundaries */
+        }
+
+        .gradient-text {
+          font-family: 'Inter', sans-serif;
+          font-size: 60px; /* Adjust size as needed */
+          font-weight: 700;
+          text-align: center;
+          /* Base gradient for browsers that support it */
+          background: linear-gradient(to right, #8e44ad, #e74c3c, #3498db, #2ecc71);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-clip: text;
+          color: transparent; /* Fallback for browsers not supporting background-clip: text */
+
+          /* Animation properties */
+          background-size: 400% 100%; /* Make gradient wider than text */
+          animation: gradient-animation 8s ease infinite alternate; /* Adjust duration as needed */
+        }
+
+        @keyframes gradient-animation {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+
+        /* Fallback for users with reduced motion preference */
+        @media (prefers-reduced-motion: reduce) {
+          .gradient-text {
+            animation: none;
+            background-position: 0% 50%; /* Static position */
+            background: linear-gradient(to right, #8e44ad, #e74c3c); /* Simpler static gradient */
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            color: transparent;
+          }
+        }
+      </style>
+      <div class="gradient-text-container">
+        <span class="gradient-text">Hi There! 👋 I'm Rajat Roy</span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
