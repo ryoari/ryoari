@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="30" viewBox="0 0 97 30" role="img" aria-label="PyTorch">
+<title>PyTorch</title>
+<rect x="0.5" y="0.5" width="96" height="29" rx="6" fill="#10171f" stroke="#35434e"/>
+<circle cx="13" cy="15" r="3" fill="#eea279"/>
+<text x="24" y="19.5" font-family="Arial,Helvetica,sans-serif" font-size="12.5" font-weight="500" fill="#d8e2ee">PyTorch</text>
+</svg>

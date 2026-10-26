@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420" role="img" aria-label="OpenVerifiableLLM: 23.1 million model parameters; all 37 training segments replayed by the project on a second RTX 5090.">
+<title>OpenVerifiableLLM: 23.1 million model parameters; all 37 training segments replayed by the project on a second RTX 5090.</title>
+<rect x="1" y="1" width="598" height="130" rx="14" fill="#10171f" stroke="#2c3945"/>
+<path d="M 22 32 V 99" stroke="#58e6ff" stroke-width="4" stroke-linecap="round"/>
+<text x="46" y="70" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" letter-spacing="-1">23.1M</text>
+<text x="48" y="104" fill="#a5b4c3" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="600" letter-spacing="1.8">MODEL PARAMETERS</text>
+<circle cx="557" cy="65" r="7" fill="#58e6ff"/>
+<rect x="1" y="145" width="598" height="130" rx="14" fill="#10171f" stroke="#2c3945"/>
+<path d="M 22 176 V 243" stroke="#c6ff6b" stroke-width="4" stroke-linecap="round"/>
+<text x="46" y="214" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" letter-spacing="-1">37 / 37</text>
+<text x="48" y="248" fill="#a5b4c3" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="600" letter-spacing="1.8">SEGMENTS REPLAYED</text>
+<circle cx="557" cy="209" r="7" fill="#c6ff6b"/>
+<rect x="1" y="289" width="598" height="130" rx="14" fill="#10171f" stroke="#2c3945"/>
+<path d="M 22 320 V 387" stroke="#58e6ff" stroke-width="4" stroke-linecap="round"/>
+<text x="46" y="358" fill="#f0f6fc" font-family="Arial,Helvetica,sans-serif" font-size="49" font-weight="700" letter-spacing="-1">RTX 5090</text>
+<text x="48" y="392" fill="#a5b4c3" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="600" letter-spacing="1.8">SECOND GPU CHECK</text>
+<circle cx="557" cy="353" r="7" fill="#58e6ff"/>
+</svg>

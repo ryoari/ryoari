@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="36" viewBox="0 0 92 36" role="img" aria-label="Code">
+<title>Code</title>
+<rect x="0.5" y="0.5" width="91" height="35" rx="7" fill="#10171f" stroke="#35434e"/>
+<circle cx="16" cy="18" r="3" fill="#d8e2ee"/>
+<text x="28" y="23" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" fill="#f0f6fc">Code</text>
+<path d="M 70 22 L 77 15 M 71 15 H 77 V 21" fill="none" stroke="#d8e2ee" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

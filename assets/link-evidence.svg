@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="117" height="36" viewBox="0 0 117 36" role="img" aria-label="Evidence">
+<title>Evidence</title>
+<rect x="0.5" y="0.5" width="116" height="35" rx="7" fill="#10171f" stroke="#35434e"/>
+<circle cx="16" cy="18" r="3" fill="#c6ff6b"/>
+<text x="28" y="23" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" fill="#f0f6fc">Evidence</text>
+<path d="M 95 22 L 102 15 M 96 15 H 102 V 21" fill="none" stroke="#c6ff6b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
